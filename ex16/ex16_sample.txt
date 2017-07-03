@@ -1,0 +1,3 @@
+I'm writing line 1.
+Also line 2.
+And the last one is line 3
